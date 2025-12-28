@@ -84,31 +84,13 @@ This dashboard can be repurposed for HR analytics scenarios such as:
 
 ---
 
-## Interactive Dashboard Link
-
-[View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjY2MjIzZWItZjIwZi00NWVjLTlmNDAtOWVkOTQ2ZTU4ZjRmIiwidCI6ImIyODc5ZDVhLTA0ZDItNDAwNy05NTc0LTQ1MTI3NWYwNmQ4MCIsImMiOjEwfQ%3D%3D)
-
----
-
-## Dashboard Snapshots
-
-![Dashboard Page 1](https://github.com/user-attachments/assets/dff6aba0-cf3d-4721-8916-f90144c03c1b)
-*Summary Page – Key Metrics Overview*
-
-![Dashboard Page 2](https://github.com/user-attachments/assets/d8ebef2a-5998-436e-b1aa-b65cc3803ac6)
-*Overview Page – Trends and Patterns*
-
-![Dashboard Page 3](https://github.com/user-attachments/assets/ec41e135-80d6-4aa5-9722-66bfe7c64f79)
-*Details Page – Dataset Reference*
-
----
-
 ## Conclusion
 
 This project demonstrates the ability to:
 
 * Prepare and clean datasets using SQL and Excel
-* Build structured dashboards with actionable insights
-* Present findings in a format suitable for HR analytics, workforce planning, and strategic decision-making
+* Design KPI-driven analytical views using Power BI
+* Translate raw financial data into business- and HR-relevant insights
+* Communicate findings in a structured, stakeholder-friendly format
 
-The repository is optimized for HR Analyst roles and can serve as a portfolio project to showcase **data visualization, reporting, and analytical skills**.
+The repository is intentionally structured with **datasets, SQL queries, and dashboard images** to reflect real-world portfolio best practices while protecting the underlying Power BI report file. This makes the project suitable for **HR Analyst, People Analytics, Business Analyst, and Data Analyst roles**.
